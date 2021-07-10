@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Create a release pipeline in Azure Pipelines #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
